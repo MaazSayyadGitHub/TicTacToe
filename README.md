@@ -1,6 +1,7 @@
 # TicTacToe
 Tic Tac Toe Game in Kotlin.
 
+### SCREENSHOTS
 
 <div>
   <img src="https://github.com/MaazSayyadGitHub/TicTacToe/assets/116147402/7f32fe26-8aa0-468a-803e-fd525626cc9e.png" alt="dashboard" height="500dp">
