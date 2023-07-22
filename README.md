@@ -1,5 +1,5 @@
 # TicTacToe
-Tic Tac Toe Game in Kotlin.
+#### Tic Tac Toe Game in Kotlin.
 
 ### SCREENSHOTS
 
